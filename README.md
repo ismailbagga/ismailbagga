@@ -7,13 +7,32 @@ You can Reach Me By :
 
 
 -----
+### Skills
++ Html 
++ Css 
+  - Sass 
+  - Bootstrap 
++ Javascript 
+    - React JS
++ TypeScript
+  - Angular   
++ Java 
+  - Spring 
++ Python  
+  - Django 
++ C-sharp 
+  - ASP.net  
++ Sql
+  - Sql Server
+  - Postgres  
 
-#### Languages And Tools I Use  : 
-[<img  width="30px" height="30px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/54/4ed1d02bfe11e9b16e4738100f1cb7/logo-java-spring-boot-cloud_.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25"/>](https://github.com/ismailbagga) [<img  width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png"/>](https://github.com/ismailbagga) [<img  width="40px" height="30px" src="https://onlinecoursetutorials.com/wp-content/uploads/2022/02/what-is-reactjs-advantages-and-disadvantages.png"/>](https://github.com/ismailbagga) [<img  width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png"/>](https://github.com/ismailbagga) [<img  width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png"/>](https://github.com/ismailbagga) 
+----
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailbagga)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on My Portofolie
-- 🌱 I’m currently learning  Spring Hibernate and Jpa 
+- 🔭 I’m currently working on My Portfolio
+- 🌱 I’m currently learning  Spring Data Jpa and Hibernate 
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 
