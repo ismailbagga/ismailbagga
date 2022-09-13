@@ -34,5 +34,5 @@ You can Reach Me By :
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning  Spring Data Jpa and Hibernate 
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
+
 
